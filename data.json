@@ -1,0 +1,100 @@
+{
+  "machines": [
+    {
+      "id": "MP01",
+      "name": "davidoff gold cyprus",
+      "oee": [ 51 , 100 ],
+      "speed": 230,
+      "rejectRate": 0.55,
+      "speedLoss": 24.63,
+      "rodWeight": 1.33,
+      "completedProd": 24,
+      "minProd": 50,
+      "status": "on production" 
+    },
+    {
+      "id": "MP02",
+      "name": "polo slims blue (rc box)",
+      "oee": [ 80 , 100 ],
+      "speed": 412,
+      "rejectRate": 0.19,
+      "speedLoss": 62.97,
+      "rodWeight": 1.33,
+      "completedProd": 15,
+      "minProd": 50,
+      "status": "on production" 
+    },
+    {
+      "id": "MP03",
+      "name": "west fusion white ksssl",
+      "oee": [ 22 , 100 ],
+      "speed": 436,
+      "rejectRate": 0.42,
+      "speedLoss": 81.78,
+      "rodWeight": 1.33,
+      "completedProd": 65,
+      "minProd": 50,
+      "status": "on production" 
+    },
+    {
+      "id": "MP04",
+      "name": "gitanes silver ks rc iq",
+      "oee": [ 90 , 100 ],
+      "speed": 174,
+      "rejectRate": 0.48,
+      "speedLoss": 22.04,
+      "rodWeight": 1.33,
+      "completedProd": 70,
+      "minProd": 50,
+      "status": "on production" 
+    },
+    {
+      "id": "MP05",
+      "name": "west one (ks rc box)",
+      "oee": [ 77 , 100 ],
+      "speed": 510,
+      "rejectRate": 0.33,
+      "speedLoss": 14.76,
+      "rodWeight": 1.33,
+      "completedProd": 30,
+      "minProd": 50,
+      "status": "on production" 
+    },
+    {
+      "id": "MP06",
+      "name": "west red ks (ks rc box)",
+      "oee": [ 0 , 100 ],
+      "speed": 361,
+      "rejectRate": 0.71,
+      "speedLoss": 48.12,
+      "rodWeight": 1.33,
+      "completedProd": 50,
+      "minProd": 50,
+      "status": "on production" 
+    },
+    {
+      "id": "MP07",
+      "name": "royale club lights slims",
+      "oee": [ 41 , 100 ],
+      "speed": 242,
+      "rejectRate": 0.21,
+      "speedLoss": 66.14,
+      "rodWeight": 1.33,
+      "completedProd": 85,
+      "minProd": 50,
+      "status": "on production" 
+    },
+    {
+      "id": "MP08",
+      "name": "west blue superslims lübnan",
+      "oee": [ 25 , 100 ],
+      "speed": 470,
+      "rejectRate": 0.16,
+      "speedLoss": 34.52,
+      "rodWeight": 1.33,
+      "completedProd": 10,
+      "minProd": 50,
+      "status": "on production" 
+    }
+  ]
+}
