@@ -3,7 +3,7 @@
 
 # Vue.js Discovery Clone
 
-This demo is a [Discovery](http://discoverydemo.massiveprocess.com/)'s clone that I coded with [Vuejs](https://github.com/vuejs/vue).
+This demo is a [Discovery](http://discoverydemo.massiveprocess.com/)'s clone that I coded with [Vuejs](https://github.com/vuejs/vue). Front-end application of a component-based reporting system.
 
 ## Build Setup
 
